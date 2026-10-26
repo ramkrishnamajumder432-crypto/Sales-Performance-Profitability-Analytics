@@ -77,8 +77,7 @@ your local source and data-quality report.
 
 ## Dashboard
 
-**Looker Studio URL:** \[Add your shareable dashboard link here\]
-
+**Looker Studio URL:** https://datastudio.google.com/reporting/7039c056-f0ec-4f71-9786-084bb8ef9e08
 Planned charts: - Monthly sales revenue trend - Top 10 products by
 revenue - Revenue by country - Top 10 customers by revenue
 
