@@ -1,0 +1,16 @@
+metric,count
+Original rows,541909.0
+Original columns,8.0
+Missing customer IDs before cleaning,135080.0
+Missing descriptions before cleaning,1454.0
+Exact duplicate rows found,5268.0
+Exact duplicate rows removed,5268.0
+Invalid invoice dates,0.0
+Missing/non-numeric quantity values,0.0
+Missing/non-numeric unit price values,0.0
+Cancellation invoice rows identified,9251.0
+Negative quantity rows identified,10587.0
+Processed sales rows,524878.0
+Processed rows with missing customer IDs,132186.0
+Processed rows with missing descriptions,0.0
+Total positive sales revenue,10642110.8

@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+Online Retail.xlsx
