@@ -40,16 +40,11 @@ Sales-Performance-Profitability-Analytics/
 │   ├── top_customers.csv
 │   └── repeat_purchase_summary.csv
 ├── clean_data.py
-├── sales_analysis.py
+├── p.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
 ```
-
-Adjust the filenames above to match your actual project. Consider
-keeping the original and processed datasets out of GitHub if they are
-large or their redistribution terms do not permit sharing.
-
 ## Dataset
 
 **Source:** UCI Machine Learning Repository --- Online Retail\
