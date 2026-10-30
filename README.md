@@ -113,11 +113,9 @@ python sales_analysis.py
 ## AI Usage Disclosure
 
 AI assistance was used to help plan the project structure, explain
-analysis steps, and draft documentation. The author should validate data
+analysis steps, and draft documentation. I have validated data
 processing, calculations, dashboard metrics, and final interpretations
-against the actual dataset. Review AI-generated suggestions before
-submitting the project.
-
+against the actual dataset.
 ## Author
 
 **Ramkrishna Majumder**
