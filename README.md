@@ -81,12 +81,6 @@ identified customers, and average order value.
 **Average Order Value (AOV):**
 `SUM(revenue) / COUNT_DISTINCT(invoiceno)`
 
-## Key Findings
-
-Add at least five findings supported by actual values from your
-generated CSV outputs. For each finding, include evidence, business
-relevance, impact, and a recommendation. Do not present unverified
-assumptions as results.
 
 ## Recommendations
 
