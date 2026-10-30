@@ -141,8 +141,3 @@ submitting the project.
 
 **Ramkrishna Majumder**
 
-## Data Use
-
-Refer to the dataset provider's terms and cite the UCI source. Do not
-redistribute the source data unless its terms permit it. Add a license
-for your own code only if you have selected appropriate terms.
