@@ -82,14 +82,6 @@ identified customers, and average order value.
 `SUM(revenue) / COUNT_DISTINCT(invoiceno)`
 
 
-## Recommendations
-
-Validate these potential recommendations against your findings: 1.
-Develop retention campaigns for high-value and repeat customers. 2.
-Improve inventory planning for products with consistently high revenue
-or demand. 3. Compare country-level performance to prioritize
-established markets and investigate growth opportunities.
-
 ## Limitations
 
 -   Product costs, operating expenses, marketing costs, and full return
