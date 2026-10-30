@@ -52,8 +52,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 The dataset contains online retail transactions, including invoice
 numbers, products, quantities, invoice dates, unit prices, customer IDs,
-and countries. Confirm exact row counts and missing-value totals from
-your local source and data-quality report.
+and countries.
 
 ## Methodology
 
@@ -118,16 +117,12 @@ pip install -r requirements.txt
 ```
 
 Place the source workbook at `data/Online Retail.xlsx` if that is the
-path expected by your script, then run:
+path expected by the script, then run:
 
 ``` bash
 python clean_data.py
 python sales_analysis.py
 ```
-
-Adjust paths and filenames if your scripts differ. Verify that output
-files are generated before connecting the cleaned data to Google Sheets
-and Looker Studio.
 
 ## AI Usage Disclosure
 
