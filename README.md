@@ -107,7 +107,7 @@ path expected by the script, then run:
 
 ``` bash
 python clean_data.py
-python sales_analysis.py
+python p.py
 ```
 
 ## AI Usage Disclosure
